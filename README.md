@@ -67,7 +67,7 @@
   
 
     .intro {
-      margin-bottom: 10px;
+      margin-bottom: 0px;
     }
 
     #container {
@@ -139,6 +139,7 @@ p {
     }
 
     h1 {
+	  text-indent: 0px;
       text-shadow: gray 0.1em 0.2em 0.4em;
       font-size: 35px;
       font-family: cursive;
