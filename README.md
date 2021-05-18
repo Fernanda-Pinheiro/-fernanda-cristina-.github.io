@@ -156,7 +156,7 @@ p {
 
     li {
       list-style: none;
-      margin-left: -10px;
+      margin-left: 10px;
 
     }
     
