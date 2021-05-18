@@ -59,7 +59,7 @@
             </div>
             <div id="footer">
             
-<!DOCTYPE HTML>
+
 
 <head>
    
