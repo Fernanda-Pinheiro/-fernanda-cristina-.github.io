@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div id="content-wrap">
-            	<div id="content" class="clearfix">
+            
                 	<h1> <a href="https://moodle.utfpr.edu.br/course/view.php?id=15890"><p>Site Pessoal para Avaliação SW1</p></a></h1>
                 		<p>
                     	Como uma pessoa detalhista, a qualidade é importante para ela em seu trabalho e vida pessoal. Ela é um tanto perfeccionista e não se contenta com trabalho mal feito ou atalhos. Tem um forte senso de certo e errado, com os valores que considera importantes. Ela sempre controla suas emoções e mantém a compostura, mesmo sob estresse. Tem uma personalidade estável, continuando mais ou menos o mesmo tanto em momentos bons como ruins. Evitar o caos e os problemas é muito importante para ela. Visto que planeja sua vida e trabalha com cuidado, ela geralmente alcança esse objetivo. Quando surgem problemas, ela geralmente os resolve com maestria.  </p>
