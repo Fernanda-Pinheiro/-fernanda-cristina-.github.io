@@ -22,7 +22,7 @@
 <div><a href="https://www.linkedin.com/in/fernanda-pinheiro-732753209/">Linkedin</a></div>
 <div><a href="https://www.facebook.com/profile.php?id=100005997961190&viewas=100000686899395">Facebook</a></div>
 
-    <div id="container" class="pagesize clearfix">
+    
     <div id="leftcol">
     <div class="inner">
     </div>
