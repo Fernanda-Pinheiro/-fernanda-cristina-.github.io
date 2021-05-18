@@ -24,8 +24,8 @@
 
     <div id="container" class="pagesize clearfix">
     <div id="leftcol">
+    <div class="inner">
     
-    </div>
             
         <div id="maincol">
         	<div id="banner" class="clearfix">
