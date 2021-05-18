@@ -57,6 +57,5 @@
             <div id="footer">
             	&copy; Copyright 2021 Compay. All right reserved
          
-</div>
 </body>
 </html>
