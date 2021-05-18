@@ -67,7 +67,7 @@
   
 
     .intro {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     #container {
