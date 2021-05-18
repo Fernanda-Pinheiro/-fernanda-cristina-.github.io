@@ -73,7 +73,7 @@
     #container {
       width: 100%;
       margin: auto;
-      text-align: center;
+      text-align: justify;
       background-repeat: repeat;
    
     }
