@@ -105,7 +105,7 @@ p {
     p {
       color: yellow;
       text-shadow: green 0.1em 0.2em 0.4em;
-      margin: 300px;
+      margin: 25px;
       font-size: 30px;
     }
 
