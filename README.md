@@ -105,7 +105,7 @@ p {
     p {
       color: yellow;
       text-shadow: green 0.1em 0.2em 0.4em;
-      margin: 0 300px;
+      margin: 300px;
       font-size: 30px;
     }
 
@@ -172,5 +172,3 @@ p {
 
 
 </body>
-
-</html>
