@@ -1,5 +1,5 @@
 # -fernanda-cristina-.github.io
-<!DOCTYPE html> 
+
 
 <html lang="pt-br">
 <head>
@@ -47,19 +47,15 @@
                     <p>
                         Possui facilidade em trabalhos que exijam persistência e exatidão. Usa de praticidade para solucionar problemas.
                     </p>
-                </div>
-            </div>
-            
-        </div>
+                
+          
         <div id="rightcol">
         	<div class="inner">
             	<p>Realiza suas tarefas com eficiência. É prática, mas a teoria não a perturba. Prefere desempenhar suas tarefas sozinha, e para isso precisa ter todas as ferramentas necessárias à mão. Gosta de executar uma tarefa de cada vez. </p>
             </div>
             <div id="footer">
             	&copy; Copyright 2021 Compay. All right reserved
-            </div>
-        </div>
-    </div>
+         
 </div>
 </body>
 </html>
