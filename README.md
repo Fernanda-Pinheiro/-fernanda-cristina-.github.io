@@ -71,8 +71,8 @@
     }
 
     #container {
-      width: 100%;
-      margin: auto;
+      width: 0;
+      margin: inherit;
       text-align: justify;
       background-repeat: repeat;
    
