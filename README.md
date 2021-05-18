@@ -58,10 +58,8 @@
             	<p>Realiza suas tarefas com eficiência. É prática, mas a teoria não a perturba. Prefere desempenhar suas tarefas sozinha, e para isso precisa ter todas as ferramentas necessárias à mão. Gosta de executar uma tarefa de cada vez. </p>
             </div>
             <div id="footer">
-            	&copy; Copyright 2021 Compay. All right reserved
-         
+            
 <!DOCTYPE HTML>
-<html>
 
 <head>
    
